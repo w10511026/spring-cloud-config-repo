@@ -1,5 +1,4 @@
 spring:
-  profiles: dev
   datasource:
     username: wms_hf1_db
     password: 3w8v%f@Nn00oVp
