@@ -1,0 +1,10 @@
+spring:
+  profiles: dev
+  datasource:
+    username: wms_hf1_db
+    password: 3w8v%f@Nn00oVp
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.111.14.140:3313/wms_hf1_db?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
